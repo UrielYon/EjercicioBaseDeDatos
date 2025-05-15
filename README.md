@@ -22,5 +22,5 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
 
 Diagrama de base de datos 
 
-![Diagrama de base de datos](EjercicioSQL.png)
+![Diagrama de base de datos](EjercicioSQL.PNG)
 ---
